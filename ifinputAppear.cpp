@@ -5,6 +5,8 @@
 #include <sstream> //string stream
 using namespace std;
 
+//made a new comment
+
 int ifInputAppearance()
 {
 		// currentVal is the number we're counting; we'll read new values into val
